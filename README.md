@@ -1,7 +1,7 @@
 # :checkered_flag: Banco Imobiliário
 
 
-Para realização do trabalho da diciplina de Projeto e Desenvolvimento de Software, foi repassado o tema de fazer um jogo de Banco Imobiliário, usanod javaFX
+Para realização do trabalho da diciplina de Projeto e Desenvolvimento de Software, foi repassado o tema de fazer um jogo de Banco Imobiliário, usando javaFX
 
 ## :technologist: Membros da equipe
 
