@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="183.0" prefWidth="500.0" style="-fx-background-color: #FFF;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.ufc.es.pds.bancoimobiliario.views.HomePageController">
+   <children>
+      <Text layoutX="109.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Banco Imobiliario">
+         <font>
+            <Font name="Fira Code Regular" size="27.0" />
+         </font>
+      </Text>
+      <Button layoutX="188.0" layoutY="103.0" mnemonicParsing="false" onMouseClicked="#handleCreateGame" text="CRIAR JOGO">
+         <font>
+            <Font name="System Bold" size="17.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
